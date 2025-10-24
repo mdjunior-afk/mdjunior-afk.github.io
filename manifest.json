@@ -4,7 +4,7 @@
   "manifest_version": 1,
   "author": "Junior",
   "description": "Painel simples para controlar inimigos no Owlbear",
-  "homepage_url": "https://mdjunior-afk.github.io/",
+  "homepage_url": "https://github.com/mdjunior-afk/mdjunior-afk.github.io",
   "background_color": "#202020",
   "default_popup": "index.html"
 }
