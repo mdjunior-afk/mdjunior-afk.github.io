@@ -1,0 +1,10 @@
+{
+  "name": "Painel do Mestre",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "author": "Junior",
+  "description": "Painel simples para controlar inimigos no Owlbear",
+  "homepage_url": "https://seu-site-ou-repositorio.com",
+  "background_color": "#202020",
+  "default_popup": "index.html"
+}
